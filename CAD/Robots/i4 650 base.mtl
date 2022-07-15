@@ -1,0 +1,56 @@
+#
+# Wavefront material file: C:\Users\carlosv\Documents\ACE\i4Robots\RenamedForAce\i4 Base\i4 base.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 11/05/2018 16:53:57
+#
+# Bounding box of geometry = (-230,-120.324,-3.46945e-015) to (133.106,120.325,401.004).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl Material
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.100392 0.100392 0.100392
+	Ks 0.175686 0.175686 0.175686
+	Ka 0.0752941 0.0752941 0.0752941
+
+newmtl Material__2
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.301176 0.301176 0.301176
+	Ks 0.527059 0.527059 0.527059
+	Ka 0.225882 0.225882 0.225882
+
+newmtl Material__3
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl Material__4
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.359216 0.367059 0.371765
+	Ks 0.628627 0.642353 0.650588
+	Ka 0.269412 0.275294 0.278824
+
+newmtl Material__5
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.200784 0.200784 0.200784
+	Ks 0.351373 0.351373 0.351373
+	Ka 0.150588 0.150588 0.150588
+
