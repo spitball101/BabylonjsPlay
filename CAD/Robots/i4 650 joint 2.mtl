@@ -1,0 +1,32 @@
+#
+# Wavefront material file: C:\Users\carlosv\Documents\ACE\i4Robots\RenamedForAce\i4 Joint 2\i4 joint 2 - 275mm.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 11/06/2018 10:58:15
+#
+# Bounding box of geometry = (-98.5,-98.4828,-42.7302) to (341,98.2875,266.288).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl Material__2
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.100392 0.100392 0.100392
+	Ks 0.175686 0.175686 0.175686
+	Ka 0.0752941 0.0752941 0.0752941
+
+newmtl i4Robot
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.301176 0.301176 0.301176
+	Ks 0.527059 0.527059 0.527059
+	Ka 0.225882 0.225882 0.225882
+

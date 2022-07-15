@@ -1,0 +1,24 @@
+#
+# Wavefront material file: D:\Source\ace4\Libraries\CAD\Robots\i4 650\i4 650 work envelope - 210mm quill.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 07/26/2021 14:20:09
+#
+# Bounding box of geometry = (-604.647,-648.761,-2.83582e-005) to (650,648.761,418.5).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl AdeptWorkEnvelope
+	Ns 24
+	d 0.35
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+

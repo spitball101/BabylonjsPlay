@@ -1,0 +1,24 @@
+#
+# Wavefront material file: D:\Source\ace4\Libraries\CAD\Robots\i4 650\i4 650 quill - 210mm.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 05/12/2022 10:00:48
+#
+# Bounding box of geometry = (-31.5,-31.5,-1.37691e-006) to (31.4538,31.5,453.37).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl i4Quill
+	Ns 24
+	d 1
+	illum 2
+	Kd 0.301176 0.301176 0.301176
+	Ks 0.527059 0.527059 0.527059
+	Ka 0.225882 0.225882 0.225882
+
